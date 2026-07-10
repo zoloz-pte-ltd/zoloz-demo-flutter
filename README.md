@@ -41,7 +41,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  zolozkit_for_flutter: ^1.1.4
+  zolozkit_for_flutter: ^2.1.7
   path_provider: ^2.0.15
 ```
 
